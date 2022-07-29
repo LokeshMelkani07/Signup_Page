@@ -1,0 +1,16 @@
+{
+  "name": "newsletter_signup",
+  "version": "1.0.0",
+  "description": "This is a newsletter singup website where we store the users sign up details and send them the newsletter later",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lokesh Melkani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}
